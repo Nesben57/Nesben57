@@ -1,6 +1,6 @@
 ### Hi there 👋
   My name is Néstor and I'm from Argentina.
-  I’m currently learning Python, Javascrip, CSS and HTML.
+  I’m currently learning Python, Javascript, CSS and HTML.
 
 <!--
 **Nesben57/Nesben57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
