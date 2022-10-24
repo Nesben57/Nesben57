@@ -1,5 +1,5 @@
 ### Hi there 👋
-  My name is Néstor and I'm from Argentina.
+  My name is Nestor and I'm from Argentina.
   I’m currently learning Java, Javascript, HTML and CSS.
 
 <!--
