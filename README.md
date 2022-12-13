@@ -1,6 +1,6 @@
 ### Hi there 👋
   My name is Nestor and I'm from Argentina.
-  I’m currently learning Java | Javascript | HTML | CSS | React | Node.JS | MySQL | MongoDB
+  I’m currently learning Java | Python | Javascript | HTML | CSS | React | Node.JS | MySQL | MongoDB
 
 <!--
 **Nesben57/Nesben57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
